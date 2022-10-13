@@ -26,7 +26,7 @@ Solving the challenge creating a component that show a qrcode and description ad
 ### Links
 
 - Solution URL: [https://github.com/csharls/frontend-mentor-go](https://github.com/csharls/frontend-mentor-go)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://frontend-mentor-qr-solution.vercel.app/](https://frontend-mentor-qr-solution.vercel.app/)
 
 ## My process
 
@@ -48,6 +48,6 @@ I want to continue practicing the color palete creation and user friendly desing
 
 ## Author
 
-- Website - [csharls](https://charlescode.wordpress.com/)
-- Frontend Mentor - [@csharls](https://www.frontendmentor.io/profile/cshals)
+- Website - [csharls Code](https://charlescode.wordpress.com/)
+- Frontend Mentor - [@csharls](https://www.frontendmentor.io/profile/csharls)
 - Twitter - [@csharls](https://www.twitter.com/csharls)
