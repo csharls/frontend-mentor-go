@@ -26,7 +26,7 @@ Solving the challenge creating a component that show a qrcode and description ad
 ### Links
 
 - Solution URL: [https://github.com/csharls/frontend-mentor-go](https://github.com/csharls/frontend-mentor-go)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://frontend-mentor-qr-solution.vercel.app/](https://frontend-mentor-qr-solution.vercel.app/)
 
 ## My process
 
