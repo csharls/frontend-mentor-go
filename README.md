@@ -17,11 +17,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Overview
 
-Solving the challenge creating a component that show a qrcode and description adapt to mobile and desktop.
+A QR code card component that adapts to mobile and desktop screens, built from the Frontend Mentor design.
 
 ### Screenshot
 
-![](./images/qrcode-solution-csharls.png)
+![QR code component solution](./images/qrcode-solution-csharls.png)
 
 ### Links
 
@@ -40,14 +40,15 @@ Solving the challenge creating a component that show a qrcode and description ad
 
 ### What I learned
 
-I usue this challenge to refresh topics about css as flexbox and grid aswell as creating the layout.
+I used this challenge to refresh Flexbox and CSS Grid and to practice building a layout from a design file.
 
 ### Continued development
 
-I want to continue practicing the color palete creation and user friendly desings
+I want to keep practicing color palette creation and user-friendly designs.
 
 ## Author
 
-- Website - [csharls Code](https://charlescode.wordpress.com/)
+- Website - [csharls.github.io](https://csharls.github.io)
+- Blog - [Charles Code](https://charlescode.wordpress.com/)
 - Frontend Mentor - [@csharls](https://www.frontendmentor.io/profile/csharls)
 - Twitter - [@csharls](https://www.twitter.com/csharls)
